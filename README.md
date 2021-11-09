@@ -1,5 +1,10 @@
 # MachineLearningEquipo
- 
-Munguia Pedral Ignacio
-Mercado Ayala Arturo
-Topete Olivares Alan Jovanni
+
+Integrantes del equipo:
+
+  Mercado Ayala Arturo
+  
+  Munguia Pedral Ignacio
+  
+  Topete Olivares Alan Jovanni
+
