@@ -13,7 +13,7 @@ Integrantes del equipo:
   
   Munguia Pedral Ignacio
   
-  Topete Olivares Alan Jovanni
+  3.- Topete Olivares Alan Jovanni
   
   Ortiz Sanchez Claudia Gloria
 
